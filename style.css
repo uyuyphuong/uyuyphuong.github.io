@@ -67,11 +67,6 @@ body {
   transition: all 0.15s;
 }
 
-.header--dark {
-  color: #fff;
-  background-color: #000;
-}
-
 .logo {
   font-size: 3rem;
   font-weight: 600;
