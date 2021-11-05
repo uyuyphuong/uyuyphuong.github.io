@@ -13,7 +13,7 @@
 ::selection {
   color: var(--primary);
   background: #ddd;
-} /*khi bôi đen đoạn văn bản chuyển thành chữ màu đỏ, bachgr màu trắng*/
+} 
 * {
   margin: 0;
   padding: 0;
@@ -26,7 +26,7 @@ a {
 }
 
 html {
-  scroll-behavior: smooth; /*để cuộn trang mượt hơn*/
+  scroll-behavior: smooth; 
 }
 
 body {
