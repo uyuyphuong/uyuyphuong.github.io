@@ -1,5 +1,5 @@
 :root {
-  --primary: red;
+  --primary: red; 
 }
 ::-webkit-scrollbar {
   width: 6px;
@@ -7,13 +7,9 @@
 } 
 
 ::-webkit-scrollbar-thumb {
-  background: black;
+  background: black;      
 }
 
-::selection {
-  color: var(--primary);
-  background: #ddd;
-} 
 * {
   margin: 0;
   padding: 0;
